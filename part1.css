@@ -1,0 +1,28 @@
+h3{
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.art{
+    margin: auto
+    
+}
+td{
+    border: 10px solid rgb(112, 8, 86);
+    background-color: aqua;
+    height: 300px;
+    width:200px
+}
+#one{
+    background-color: #7EA7B9;
+}
+#two{
+    background-color: rgb(121, 82, 10);
+}
+#three{
+    background-color: rgb(21, 10, 121);
+}
+#four{
+    background-color: rgb(221, 69, 22);
+}
