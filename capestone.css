@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+
+h1{
+    font-size: xx-larger;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#hi{
+    background-color: brown;
+    border: 3px solid orange;
+   border-radius: 200px;
+   font-size: xx-large;
+   padding: auto;
+}
